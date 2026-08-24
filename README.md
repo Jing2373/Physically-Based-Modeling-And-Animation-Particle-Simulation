@@ -15,10 +15,19 @@ The simulation uses the Forward Euler method for numerical integration.
 
 ## Controls
 
-- `G` / `g`: Adjust gravity
-- `C` / `c`: Adjust restitution
+- `G` / `g`: Increase or decrease gravity
+- `C` / `c`: Increase or decrease restitution
 - `E` / `e`: Emit particles
+
+## Credits
+
+Some source files and the PBA framework were provided as course starter code
+by Jerry Tessendorf.
+
+My work focuses on implementing and modifying the particle simulation,
+gravity behavior, collision response, particle emission, and solver integration.
 
 ## Academic Context
 
-This project was developed as part of a physics-based modeling and animation course assignment.
+This project was developed as part of a
+Physically-Based Modeling and Animation course assignment.
