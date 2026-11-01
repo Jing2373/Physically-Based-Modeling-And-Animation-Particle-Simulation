@@ -1,4 +1,5 @@
 #  Particle Simulation
+<img width="640" height="414" alt="JingYinHung_01_10秒" src="https://github.com/user-attachments/assets/a21a8ec6-44ba-43a5-b7c4-b1b0877aeb38" />
 
 A 3D particle physics simulation implemented in C++ with OpenGL.
 
@@ -22,7 +23,7 @@ The simulation uses the Forward Euler method for numerical integration.
 ## Credits
 
 Some source files and the PBA framework were provided as course starter code
-by Jerry Tessendorf.
+by Dr. Jerry Tessendorf.
 
 My work focuses on implementing and modifying the particle simulation,
 gravity behavior, collision response, particle emission, and solver integration.
